@@ -1,0 +1,5 @@
+[submodule "src/3rd-party/wtl"]
+	
+	path = src/3rd-party/wtl
+
+	url = https://git.code.sf.net/p/wtl/git

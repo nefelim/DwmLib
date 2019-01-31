@@ -1,0 +1,9 @@
+*.sdf
+*.opendb
+*.aps
+*.user
+src/\.vs/
+src/ipch/
+bin/
+obj/
+
